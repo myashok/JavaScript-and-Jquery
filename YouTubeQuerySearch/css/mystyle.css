@@ -69,6 +69,7 @@ section{
 	width: 60px;	
 	float: left;
 	z-index: 100;
+	cursor: pointer;
 	margin-left: -60px;
 }
 #results {
